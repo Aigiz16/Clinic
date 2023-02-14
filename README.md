@@ -25,9 +25,11 @@
 Для лучшего рассмотрения экранов: https://www.figma.com/file/Konmgrph2eGvNp2zgZFMXW/Untitled?node-id=0%3A1&t=QnSuW7ByKlQngNHm-0
 
 ERD:
+
 ![image](https://user-images.githubusercontent.com/83493956/218837469-7bf43a60-bde6-4bcd-8b72-9f8af748444c.png)
 
 Архитектура:
 ![image](https://user-images.githubusercontent.com/83493956/218837697-ad46f7b2-9859-4500-9531-808f383868a6.png)
+
 При реализации клиента использованы следующие технологии: HTML, CSS, JavaScript
 При реализации клиента использованы следующие технологии: PHP
