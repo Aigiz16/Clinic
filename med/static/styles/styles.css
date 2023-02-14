@@ -1,0 +1,132 @@
+.gray-bg {
+    background-color: #d4d2d2 !important;
+}
+
+.text-auth {
+    font-size: 70px;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+}
+
+
+.doctors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px calc((100% - (255px * 3)) / 2);
+  }
+  
+  .doctor {
+     height: 300px;
+     flex: 0 0 215px;
+     margin: 1em 20px;
+  }
+
+.main_photo {
+    height: 100%;
+    width: 100%;
+    max-height: 400px;
+    max-width: 800px;
+}
+
+.reg-div {
+    margin-top: -150px;
+}
+
+/* ----------------------------------------- */
+
+a{
+    text-decoration: none;
+}
+.auth-container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: -250px;
+}
+.auth-form{
+    font-size: 100px;
+    margin-top: 100px;
+    max-width: 700px;
+}
+.auth{
+    border: 1px solid #000;
+    padding: 20px 15px 25px 10px;
+}
+.auth-title, .reg-title{
+    margin-top: 12px;
+    text-align: center;
+    font-size: 20px;
+}
+.form-control{
+    width: 300px;
+    height: 45px;
+    background: #a2a2a2;
+    border-radius: 5px;
+    border: none;
+}
+.forgetPswrd{
+    display: block;
+    text-align: right;
+    font-size: 20px;
+}
+.btn-auth{
+    display: block;
+    margin: 15px auto 0 auto;
+    padding: 12px 50px;
+    background: blue;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+.loginLabel, .pswrdLabel{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.signUpLink{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.reg-container{  
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding-left: 56px;
+    padding-right: 16px;
+    border: 1px solid #000;
+    padding: 20px 15px 25px 10px;  
+}
+.btn-in{
+    display: block;
+    margin: 15px 12px 0 auto;
+    display: flex;
+}
+.btn-reg{
+    display: block;
+    margin: 35px auto 0 auto;
+    padding: 12px 50px;
+    background: blue;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+.restore-container{  
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding-left: 56px;
+    padding-right: 16px;
+    border: 1px solid #000;
+    padding: 20px 15px 25px 10px;  
+}
+.emailLabel{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}

@@ -1,0 +1,97 @@
+a{
+    text-decoration: none;
+}
+.auth-container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: -250px;
+}
+.auth-form{
+    font-size: 100px;
+    margin-top: 100px;
+    max-width: 700px;
+}
+.auth{
+    border: 1px solid #000;
+    padding: 20px 15px 25px 10px;
+}
+.auth-title, .reg-title{
+    margin-top: 12px;
+    text-align: center;
+    font-size: 20px;
+}
+.form-control{
+    width: 300px;
+    height: 45px;
+    background: #d4d2d2;
+    border-radius: 5px;
+    border: none;
+}
+.forgetPswrd{
+    display: block;
+    text-align: right;
+    font-size: 20px;
+}
+.btn-auth{
+    display: block;
+    margin: 15px auto 0 auto;
+    padding: 12px 50px;
+    background: blue;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+.loginLabel, .pswrdLabel{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.signUpLink{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.reg-container{  
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding-left: 56px;
+    padding-right: 16px;
+    border: 1px solid #000;
+    padding: 20px 15px 25px 10px;  
+}
+.btn-in{
+    display: block;
+    margin: 15px 12px 0 auto;
+    padding: 12px 15px;
+    background: blue;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    display: flex;
+}
+.btn-reg{
+    display: block;
+    margin: 35px auto 0 auto;
+    padding: 12px 50px;
+    background: blue;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+.restore-container{  
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding-left: 56px;
+    padding-right: 16px;
+    border: 1px solid #000;
+    padding: 20px 15px 25px 10px;  
+}
+.emailLabel{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
